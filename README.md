@@ -1,1 +1,1 @@
-Hello, I am anotfor, beginning programmer in C, C++
+Hello, I am luxne, beginning programmer in C, C++
